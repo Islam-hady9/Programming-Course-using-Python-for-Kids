@@ -4,15 +4,16 @@
 
 ## Table of Content – Python for Kids:
 
-### 1. What is Python?
-### 2. Why Python for Kids?
-### 3. Getting Started with Python
+### 0. [What is Programming?](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%201.pptx)
+### 1. [What is Python?](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
+### 2. [Why Python for Kids?](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
+### 3. [Getting Started with Python](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
 #### 3.1. Installing Python
 #### 3.2. Python IDE
-### 4. Python Syntax
-### 5. First Python Program – Hello, World!
-### 6. Python Variables
-### 7. Python Inputs
+### 4. [Python Syntax](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
+### 5. [First Python Program – Hello, World!](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
+### 6. [Python Variables](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%203.pptx)
+### 7. [Python Inputs](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%203.pptx)
 ### 8. Python Datatypes
 #### 8.1 Int
 #### 8.2 Float
