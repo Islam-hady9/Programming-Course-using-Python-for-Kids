@@ -14,7 +14,7 @@
 ### 5. [First Python Program – Hello, World!](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%202.pptx)
 ### 6. [Python Variables](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%203.pptx)
 ### 7. [Python Inputs](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%203.pptx)
-### 8. Python Datatypes
+### 8. [Python Datatypes](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%204.pptx)
 #### 8.1 Int
 #### 8.2 Float
 #### 8.3 String
