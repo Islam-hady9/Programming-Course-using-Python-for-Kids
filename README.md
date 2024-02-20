@@ -23,7 +23,7 @@
 #### 8.6 Tuple
 #### 8.7 Dict
 #### 8.8 Set
-### 9. Python Operators
+### 9. [Python Operators](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%206.pptx)
 ### 10. Control Flow
 #### 10.1. Conditional Statements  
 #### 10.2. Loops 
