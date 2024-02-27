@@ -1,5 +1,7 @@
 # Programming Course using Python for Kids
 
+![Learn Programming For Kids](https://img.freepik.com/free-vector/brainstorming-concept-landing-page_23-2148322843.jpg?size=626&ext=jpg&ga=GA1.1.1325767142.1703806253&semt=ais)
+
 ## Content for a simple and fun course to learn programming for children in the Python language.
 
 ## Table of Content – Python for Kids:
