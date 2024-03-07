@@ -29,7 +29,7 @@
 ### 10. [Control Flow](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%207.pptx)
 #### 10.1. Conditional Statements  
 #### 10.2. Loops 
-### 11. Functions and Modules in Python
+### 11. [Functions and Modules in Python](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%208.pptx)
 #### 11.1 Python Functions
 #### 11.2 Python Modules
 ### 12. OOPS in Python
