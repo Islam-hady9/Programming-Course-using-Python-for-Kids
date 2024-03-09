@@ -32,5 +32,5 @@
 ### 11. [Functions and Modules in Python](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%208.pptx)
 #### 11.1 Python Functions
 #### 11.2 Python Modules
-### 12. OOPS in Python
+### 12. [OOPS in Python](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%209.pptx)
 ### 13. Fun Activities – Python Projects for Kids
