@@ -33,4 +33,6 @@
 #### 11.1 Python Functions
 #### 11.2 Python Modules
 ### 12. [OOPS in Python](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%209.pptx)
-### 13. Fun Activities – Python Projects for Kids
+### 13. [Fun Activities – Python Projects for Kids](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%2010.pptx)
+#### To make learning Python more exciting, here are a few project ideas for kids:
+- [Project 1. Simple Calculator](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%201.%20Simple%20Calculator.py)
