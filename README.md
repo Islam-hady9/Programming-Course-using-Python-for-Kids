@@ -36,3 +36,8 @@
 ### 13. [Fun Activities – Python Projects for Kids](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Lesson%2010.pptx)
 #### To make learning Python more exciting, here are a few project ideas for kids:
 - [Project 1. Simple Calculator](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%201.%20Simple%20Calculator.py)
+- [Project 2. Guess the Number](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%202.%20Guess%20the%20Number.py)
+- [Project 3. Simple To-Do List](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%203.%20Simple%20To-Do%20List.py)
+- [Project 4. Mad Libs Game](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%204.%20Mad%20Libs%20Game.py)
+- [Project 5. Hangman Game](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%205.%20Hangman%20Game.py)
+- [Project 6. Simple Drawing Program](https://github.com/Islam-hady9/Programming-Course-using-Python-for-Kids/blob/main/Python%20Projects%20for%20Kids/Project%206.%20Simple%20Drawing%20Program.py)
